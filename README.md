@@ -22,19 +22,10 @@ Here are some ideas to get you started:
 ---
 
 ## 🧩 About Me  
-- 📍 Based in Hamburg, Germany  
 - 🎓 PhD in progress @ University of Cologne — *Hybrid Inclusion in Egypt*  
 - 🌐 Former Goethe-Institut and GIZ (North Africa & Middle East)  
 - 🤝 Background in international cooperation
 - 🌱 Bridging **theory, practice & technology**
-
----
-
-## 🛠️ Skills & Tools  
-![Inclusive Education](https://img.shields.io/badge/Inclusive%20Education-Expert-green)  
-![Project Leadership](https://img.shields.io/badge/Project%20Leadership-🌍-blue)  
-![Rust Builder](https://img.shields.io/badge/Rust-Builder-brown?logo=rust&logoColor=white)   
-![Languages](https://img.shields.io/badge/Languages-English%20C1%20%7C%20French%20B2%20%7C%20Arabic%20A2-yellow)
 
 ---
 
@@ -46,12 +37,3 @@ Here are some ideas to get you started:
 - COVID-19 Education Impacts in Africa  
 📄 [See Publications](https://orcid.org/0000-0001-6157-1091)  
 
----
-
-## 🌟 Fun Facts  
-- 🏃‍♂️ Long-distance runner  
-- 🧗 Climbing enthusiast  
-- 🎭 Theater lover  
-- 🔭 Night-sky explorer  
-
----
