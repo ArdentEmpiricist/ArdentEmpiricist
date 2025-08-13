@@ -13,27 +13,66 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I’m Hendrik  
+# 👋 Hey there! I’m Hendrik 🦀
+
+Welcome to my coding playground!  
 
 🎓 **PhD Candidate** | 🌍 **(Inclusive) Education** | 💡 **Project Lead**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hendrik%20Lux-blue?logo=linkedin)](https://www.linkedin.com/in/hendrik-lux/)  [![GitHub](https://img.shields.io/badge/GitHub-ArdentEmpiricist-black?logo=github)](https://github.com/ArdentEmpiricist)  [![Email](https://img.shields.io/badge/Email-Me-orange?logo=gmail)](mailto:sharpie_abfrage9x@icloud.com)
+[![Rust](https://img.shields.io/badge/Rust-Language-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)](https://python.org)
+[![Open Source](https://img.shields.io/badge/Open%20Source-yes-brightgreen?logo=github)](https://github.com/explore)
+[![Coffee](https://img.shields.io/badge/Coffee-Ready%20to%20Code-brown?logo=coffee)](https://www.buymeacoffee.com/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6157--1091-a6ce39?logo=orcid)](https://orcid.org/0000-0001-6157-1091)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdentEmpiricist&layout=compact&theme=radical)
+<!--
+![trophy](https://github-profile-trophy.vercel.app/?username=ArdentEmpiricist&theme=radical)
+
+![GitHub Contribution Graph](https://github.com/ArdentEmpiricist/ArdentEmpiricist/blob/main/profile-activity.svg)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdentEmpiricist&show_icons=true&theme=radical)
+-->
 
 ---
 
-## 🧩 About Me  
-- 🎓 PhD in progress @ University of Cologne — *Hybrid Inclusion in Egypt*  
-- 🌐 Former Goethe-Institut and GIZ (North Africa & Middle East)  
+## 🌱 About Me  
+- 🎓 PhD Candidate @ University of Cologne – *Hybrid Inclusion in Egypt*
+- 📢 Teacher-training, conferences & workshops
+- 🌐 Former Goethe-Institut and GIZ (North Africa & Middle East) 
 - 🤝 Background in international cooperation
 - 🌱 Bridging **theory, practice & technology**
+- 🦀 **Rustacean** and **Open Source Enthusiast**
+- 🌟 Advocate for **Open Source**: I believe in collaborative and transparent development
+- 🗣️  **Languages**: English, German, French & some Arabic
+- 💬 Always  **happy to connect** and talk about education, Rust, open source, and international collaboration!
+
 
 ---
 
 ## 📚 Publications & Talks  
-- Teacher Professional Development
+- Education & Teacher Training & Professional Development
 - International Cooperation
 - Access to digital tools
 - Inclusion in the Global South   
 - COVID-19 Education Impacts in Africa  
-📄 [See Publications](https://orcid.org/0000-0001-6157-1091)  
+📄 [See Publications](https://orcid.org/0000-0001-6157-1091)
+
+---
+
+## 📬 Get In Touch & More
+
+🤝 **Let’s collaborate!**  
+Open to Education and Open Source projects.
+
+Want to connect, collaborate, or just say hi?  
+Here are some ways to reach me or learn more:
+
+[![Email](https://img.shields.io/badge/Email-Me-orange?logo=gmail)](mailto:sharpie_abfrage9x@icloud.com)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Hendrik%20Lux-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Hendrik-Lux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hendrik%20Lux-blue?logo=linkedin)](https://www.linkedin.com/in/hendrik-lux/)
+
+## 🥚 Easter Egg Challenge
+
+Ask me about the most unusual education project I’ve worked on!
 
