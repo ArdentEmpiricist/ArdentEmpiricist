@@ -37,17 +37,6 @@ I am a program manager and researcher specializing in (inclusive) education, dig
 
 ---
 
-## 🌱 About Me  
-- 🎓 PhD Candidate @ University of Cologne – *Hybrid Inclusion in Egypt*
-- 📢 Teacher-training, conferences & workshops
-- 🌐 Former Goethe-Institut and GIZ (North Africa & Middle East) 
-- 🤝 Background in international cooperation
-- 🌱 Bridging **theory, practice & technology**
-- 🦀 **Rustacean** and **Open Source Enthusiast**
-- 🌟 Advocate for **Open Source**: I believe in collaborative and transparent development
-- 🗣️  **Languages**: English, German, French & some Arabic
-- 💬 Always  **happy to connect** and talk about education, Rust, open source, and international collaboration!
-
 ## 🧩 About Me
 
 - **PhD Candidate** at University of Cologne – *Hybrid Inclusion in Egypt*
