@@ -23,7 +23,6 @@ Welcome to my coding playground!
 [![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)](https://python.org)
 [![Open Source](https://img.shields.io/badge/Open%20Source-yes-brightgreen?logo=github)](https://github.com/explore)
 [![Coffee](https://img.shields.io/badge/Coffee-Ready%20to%20Code-brown?logo=coffee)](https://www.buymeacoffee.com/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6157--1091-a6ce39?logo=orcid)](https://orcid.org/0000-0001-6157-1091)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdentEmpiricist&layout=compact&theme=radical)
 <!--
@@ -70,6 +69,7 @@ Here are some ways to reach me or learn more:
 
 [![Email](https://img.shields.io/badge/Email-Me-orange?logo=gmail)](mailto:sharpie_abfrage9x@icloud.com)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Hendrik%20Lux-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Hendrik-Lux)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6157--1091-a6ce39?logo=orcid)](https://orcid.org/0000-0001-6157-1091)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hendrik%20Lux-blue?logo=linkedin)](https://www.linkedin.com/in/hendrik-lux/)
 
 ## 🥚 Easter Egg Challenge
