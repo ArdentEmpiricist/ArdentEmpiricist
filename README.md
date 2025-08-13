@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hey there! I’m Hendrik 🦀
+# 👋 Hello, I’m Hendrik
 
-Welcome to my coding playground!  
+Welcome to my GitHub profile!
 
-🎓 **PhD Candidate** | 🌍 **(Inclusive) Education** | 💡 **Project Lead**  
+I am a program manager and researcher specializing in (inclusive) education, digital transformation, and international cooperation. My work integrates research, practice, and technology, with a focus on creating learning opportunities that are accessible to all.
 
 [![Rust](https://img.shields.io/badge/Rust-Language-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)](https://python.org)
@@ -26,6 +26,8 @@ Welcome to my coding playground!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdentEmpiricist&layout=compact&theme=radical)
 <!--
+![GitHub Contribution Snake](https://github.com/ArdentEmpiricist/ArdentEmpiricist/blob/main/github-contribution-grid-snake.svg)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=ArdentEmpiricist&theme=radical)
 
 ![GitHub Contribution Graph](https://github.com/ArdentEmpiricist/ArdentEmpiricist/blob/main/profile-activity.svg)
@@ -46,6 +48,13 @@ Welcome to my coding playground!
 - 🗣️  **Languages**: English, German, French & some Arabic
 - 💬 Always  **happy to connect** and talk about education, Rust, open source, and international collaboration!
 
+## 🧩 About Me
+
+- **PhD Candidate** at University of Cologne – *Hybrid Inclusion in Egypt*
+- **Program manager** in education: Former Goethe-Institut and GIZ (North Africa & Middle East)
+- **Education & Teacher Training**: ToT & conference speaker & workshop facilitator
+- **Languages**: English, German, French & some Arabic
+- **Tech Interests**: 🦀 Rust, open source, digital transformation in education
 
 ---
 
@@ -54,8 +63,10 @@ Welcome to my coding playground!
 - International Cooperation
 - Access to digital tools
 - Inclusion in the Global South   
-- COVID-19 Education Impacts in Africa  
-📄 [See Publications](https://orcid.org/0000-0001-6157-1091)
+- COVID-19 Education Impacts in Africa
+  
+📄 Browse research & publications: [![ResearchGate](https://img.shields.io/badge/ResearchGate-Hendrik%20Lux-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Hendrik-Lux)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6157--1091-a6ce39?logo=orcid)](https://orcid.org/0000-0001-6157-1091)
 
 ---
 
@@ -68,8 +79,6 @@ Want to connect, collaborate, or just say hi?
 Here are some ways to reach me or learn more:
 
 [![Email](https://img.shields.io/badge/Email-Me-orange?logo=gmail)](mailto:sharpie_abfrage9x@icloud.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Hendrik%20Lux-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Hendrik-Lux)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6157--1091-a6ce39?logo=orcid)](https://orcid.org/0000-0001-6157-1091)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hendrik%20Lux-blue?logo=linkedin)](https://www.linkedin.com/in/hendrik-lux/)
 
 ## 🥚 Easter Egg Challenge
