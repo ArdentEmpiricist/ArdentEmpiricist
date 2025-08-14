@@ -24,7 +24,7 @@ I am a program manager and researcher specializing in (inclusive) education, dig
 [![Open Source](https://img.shields.io/badge/Open%20Source-yes-brightgreen?logo=github)](https://github.com/explore)
 [![Coffee](https://img.shields.io/badge/Coffee-Ready%20to%20Code-brown?logo=coffee)](https://www.buymeacoffee.com/)
 
-![github contribution grid snake dark](https://raw.githubusercontent.com/ArdentEmpiricist/ArdentEmpiricist/output/dist/github-contribution-grid-snake.svg)
+![github contribution grid snake dark]([github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/ArdentEmpiricist/ArdentEmpiricist/refs/heads/output/github-contribution-grid-snake-dark.svg))
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdentEmpiricist&layout=compact&theme=radical)
 
