@@ -23,10 +23,10 @@ I am a program manager and researcher specializing in (inclusive) education, dig
 [![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)](https://python.org)
 [![Open Source](https://img.shields.io/badge/Open%20Source-yes-brightgreen?logo=github)](https://github.com/explore)
 [![Coffee](https://img.shields.io/badge/Coffee-Ready%20to%20Code-brown?logo=coffee)](https://www.buymeacoffee.com/)
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdentEmpiricist&layout=compact&theme=radical)
 
 ![GitHub Contribution Snake](https://github.com/ArdentEmpiricist/ArdentEmpiricist/blob/main/github-contribution-grid-snake.svg)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdentEmpiricist&layout=compact&theme=radical)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ArdentEmpiricist&theme=radical)
 
