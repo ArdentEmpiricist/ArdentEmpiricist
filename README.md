@@ -23,7 +23,7 @@ I am a program manager and researcher specializing in (inclusive) education, dig
 [![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)](https://python.org)
 [![R](https://img.shields.io/badge/R-Language-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-yes-brightgreen?logo=github)](https://github.com/explore)
-[![Coffee](https://img.shields.io/badge/Coffee-Ready%20to%20Code-brown?logo=coffee)](https://www.buymeacoffee.com/)
+[![Coffee](https://img.shields.io/badge/Coffee-Ready%20to%20Code-brown?logo=coffee)](https://www.github.com/)
 
 ![github contribution grid snake dark](https://raw.githubusercontent.com/ArdentEmpiricist/ArdentEmpiricist/refs/heads/output/github-contribution-grid-snake-dark.svg)
 <!--
