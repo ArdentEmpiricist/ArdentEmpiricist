@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile!
 
-I am a program manager and researcher specializing in (inclusive) education, digital transformation, and international cooperation. My work integrates research, practice, and technology, with a focus on creating learning opportunities that are accessible to all.
+I am a program manager and researcher with expertise in inclusive education, technical and vocational training, digital transformation, and international cooperation. I also focus on international mobility and exchange. My work bridges research, practice, and technology to design and implement learning opportunities that are accessible, sustainable, and globally connected.
 
 [![Rust](https://img.shields.io/badge/Rust-Language-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)](https://python.org)
