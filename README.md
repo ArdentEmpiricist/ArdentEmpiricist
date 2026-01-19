@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile!
 
-I am a program manager and researcher with expertise in (inclusive) education, technical and vocational training, digital transformation, and international cooperation. I also focus on international mobility and exchange. My work bridges research, practice, and technology to design and implement learning opportunities that are accessible, sustainable, and globally connected.
+I am a program manager in education
 
 [![Rust](https://img.shields.io/badge/Rust-Language-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)](https://python.org)
@@ -37,23 +37,6 @@ I am a program manager and researcher with expertise in (inclusive) education, t
 -->
 
 ---
-
-## 🧩 About Me
-
-- **PhD Candidate** at University of Cologne – *Hybrid Inclusion in Egypt*
-- **Program manager** in education: Former Goethe-Institut and GIZ (North Africa & Middle East)
-- **Education & Teacher Training**: ToT & conference speaker & workshop facilitator
-- **Languages**: English, German, French & some Arabic
-- **Tech Interests**: 🦀 Rust, open source, digital transformation in education
-
----
-
-## 📚 Publications & Talks  
-- Education & Teacher Training & Professional Development
-- International Cooperation
-- Access to digital tools
-- Inclusion in the Global South   
-- COVID-19 Education Impacts in Africa
   
 📄 Browse research & publications: [![ResearchGate](https://img.shields.io/badge/ResearchGate-Hendrik%20Lux-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Hendrik-Lux)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6157--1091-a6ce39?logo=orcid)](https://orcid.org/0000-0001-6157-1091)
@@ -62,16 +45,10 @@ I am a program manager and researcher with expertise in (inclusive) education, t
 
 ## 📬 Get In Touch & More
 
-🤝 **Let’s collaborate!**  
-Open to Education and Open Source projects.
-
-Want to connect, collaborate, or just say hi?  
-Here are some ways to reach me or learn more:
+Want to connect, collaborate, or just say hi?
 
 [![Email](https://img.shields.io/badge/Email-Me-orange?logo=gmail)](mailto:sharpie_abfrage9x@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hendrik%20Lux-blue?logo=linkedin)](https://www.linkedin.com/in/hendrik-lux/)
 
-## 🥚 Easter Egg Challenge
 
-Ask me about the most unusual education project I’ve worked on!
 
