@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile!
 
-I am a program manager in education
+I am a program manager in education.
 
 [![Rust](https://img.shields.io/badge/Rust-Language-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-Language-blue?logo=python)](https://python.org)
