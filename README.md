@@ -39,7 +39,9 @@ I am a program manager in education.
 ---
   
 📄 Browse research & publications:
+
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Hendrik%20Lux-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Hendrik-Lux)
+
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6157--1091-a6ce39?logo=orcid)](https://orcid.org/0000-0001-6157-1091)
 
 ---
